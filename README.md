@@ -18,7 +18,7 @@ Automatically commits and pushes changes from your selected project folder to a 
 
 ### 🔹 Step 1: Download
 
-[⬇️ Download Latest Release](#) *(Replace this with your GitHub release link)*
+[⬇️ Download Latest Release](https://github.com/Kunal-CodeLab/AutoGitBackupTool/releases/latest)
 
 Unzip the downloaded folder (e.g., `AutoGitBackupTool.zip`). Inside, you'll find:
 
@@ -97,7 +97,7 @@ Now the tool will start automatically every time you boot your PC.
 
 Created with ❤️ by [Kunal Choudhary](mailto:kjat3495@gmail.com)
 
-If you face any issues, feel free to open an [Issue](https://github.com/your-repo/issues) or send feedback.
+If you face any issues, feel free to open an [Issue](https://github.com/Kunal-CodeLab/AutoGitBackupTool/issues) or send feedback.
 
 ---
 
